@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\C# test\Amit Assignment\ConsoleApp\bin\Debug\ConsoleTest.exe.config
+C:\Users\Admin\Desktop\C# test\Amit Assignment\ConsoleApp\bin\Debug\ConsoleTest.exe
+C:\Users\Admin\Desktop\C# test\Amit Assignment\ConsoleApp\bin\Debug\ConsoleTest.pdb
+C:\Users\Admin\Desktop\C# test\Amit Assignment\ConsoleApp\obj\Debug\ConsoleTest.exe
+C:\Users\Admin\Desktop\C# test\Amit Assignment\ConsoleApp\obj\Debug\ConsoleTest.pdb
